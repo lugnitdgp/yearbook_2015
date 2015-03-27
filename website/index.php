@@ -122,7 +122,7 @@ session_start();
             <form class="navbar-form " method="POST" action="login.php">
               <div style="float:right;"><button type="submit" class="btn" name="signin">Sign in</button></div>
               <div data-tip="Initial Password is the same as the Username." style="float:right; padding-right: 10px;"><input class="span2" name="password" type="password" placeholder="Password"></div>
-              <div data-tip="Format: 11/CSE/67 OR 11/CSE/5" style="float:right; padding-right: 10px;"><input class="span2" name="rollnumber" type="text" placeholder="Roll Number"></div>
+              <div data-tip="Format: 11/CSE/67 OR 11/CSE/1" style="float:right; padding-right: 10px;"><input class="span2" name="rollnumber" type="text" placeholder="Roll Number"></div>
             </form>
             <?php } else {
             ?>
