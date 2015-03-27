@@ -229,16 +229,11 @@ else
                 <div class="span2"><small><em>30 Characters</em></small></div>
                 <div class="span5"><input type="text" id="email" name="email" placeholder="Example: hello123@mymail.com" value="<?php echo $email; ?>"/></div>
             </div>
+            
             <div class="row">
-                <div class="span3">Facebook ID</div>
-                <div class="span2"><small><em>40 Characters</em></small></div>
-                <div class="span5"><input type="text" id="facebookid" name="facebookid" placeholder="example: facebook.com/cooldude.124" value="<?php echo $facebookid; ?>" /></div>
-            </div>
-
-            <div class="row">
-                <div class="span3">Going to ...</div>
-                <div class="span2"><small><em>120 Characters</em></small></div>
-                <div class="span5"><input type="text" id="goingto" name="goingto" placeholder="example: Tehelka Infocomm Limited" value="<?php echo $goingto; ?>" /></div>
+                <div class="span3">Future Plans</div>
+                <div class="span2"><small><em>180 Characters</em></small></div>
+                <div class="span5"><input type="text" id="goingto" name="goingto" placeholder="example: Going on a Sanyas trip to the Himalyas and an MBA after :P" value="<?php echo $goingto; ?>" /></div>
             </div>
 
             <div class="row">
@@ -248,10 +243,10 @@ else
             </div>
 
             <div class="row">
-                <div class="span3">Song that best describes me</div>
-                <div class="span2"><small><em>120 Characters</em></small></div>
+                <div class="span3">How NITDGP changed me...</div>
+                <div class="span2"><small><em>180 Characters</em></small></div>
                 <div class="span5">
-<textarea id="songdescribe" name="songdescribe" placeholder="Example: Mai Senti Hu" rows="3"><?php echo $songdescribe; ?></textarea></div>
+<textarea id="songdescribe" name="songdescribe" placeholder="Example: Grew an extra limb! :P" rows="3"><?php echo $songdescribe; ?></textarea></div>
             </div>
 
             <div class="row">
@@ -261,15 +256,15 @@ else
             </div>
 
             <div class="row">
-                <div class="span3">10 years hence ...</div>
+                <div class="span3">The most testing time for me...</div>
                 <div class="span2"><small><em>120 Characters</em></small></div>
-                <div class="span5"><textarea id="tenyears" name="tenyears" placeholder="Where you see yourself in 10 years from now" rows="2"><?php echo $tenyears; ?></textarea></div>
+                <div class="span5"><textarea id="tenyears" name="tenyears" placeholder="Waiting for her for 15mins in PMC :P" rows="2"><?php echo $tenyears; ?></textarea></div>
             </div>
 
             <div class="row">
-                <div class="span3">Parting punch</div>
+                <div class="span3">Where do I see myself when I come for the 25th Reunion...</div>
                 <div class="span2"><small><em>180 Characters</em></small></div>
-                <div class="span5"><input type="text" id="partingpunch" name="partingpunch" placeholder="An awesome quote" value="<?php echo $partingpunch; ?>" /></div>
+                <div class="span5"><input type="text" id="partingpunch" name="partingpunch" placeholder="On Mars :D" value="<?php echo $partingpunch; ?>" /></div>
             </div>
 
             <div class="row">
