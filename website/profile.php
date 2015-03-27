@@ -124,12 +124,9 @@ else
                     <th class="span4">Email</th>
                     <td class="span4"><?php echo $email; ?></td>
                 </tr>
+                
                 <tr>
-                    <th class="span4">Facebook ID</th>
-                    <td class="span4"><?php echo $facebookid; ?></td>
-                </tr>
-                <tr>
-                    <th class="span4">Going to ...</th>
+                    <th class="span4">Future Plans</th>
                     <td class="span4"><?php echo $goingto; ?></td>
                 </tr>
                 <tr>
@@ -137,7 +134,7 @@ else
                     <td class="span4"><?php echo $iwishihad; ?></td>
                 </tr>
                 <tr>
-                    <th class="span4">Song that best describes me</th>
+                    <th class="span4">How NITDGP changed me...</th>
                     <td class="span4"><?php echo $songdescribe; ?>
                 </tr>
                 <tr>
@@ -145,11 +142,11 @@ else
                     <td class="span4"><?php echo $bestmoment; ?></td>
                 </tr>
                 <tr>
-                    <th class="span4">10 years hence ...</th>
+                    <th class="span4">The most testing time for me...</th>
                     <td class="span4"><?php echo $tenyears; ?></td>
                 </tr>
                 <tr>
-                    <th class="span4">Parting punch</th>
+                    <th class="span4">Where do I see myself when I come for the 25th Reunion...</th>
                     <td class="span4"><?php echo $partingpunch; ?></td>
                 </tr>
                 <tr>
